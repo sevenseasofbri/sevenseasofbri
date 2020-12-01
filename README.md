@@ -1,13 +1,6 @@
 ### Hi there!👋
 
 Hi, I'm Vishruti, a Computer Engineering undergraduate at the National University of Singapore.✨
-
-<a href="www.linkedin.com/in/vishruti-ranjan-734997192">
-  <img align="left" alt="Vishruti Ranjan | LinkedIn" width="50px" src="https://icons-for-free.com/iconfiles/png/512/linkedin+button+linkedin+logo+social+media+icon-1320190502305520173.png" />
-</a>
-
-<br />
-
 <!--
 **sevenseasofbri/sevenseasofbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
