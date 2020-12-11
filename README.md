@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [wireless communications system](https://nus-rover-team.github.io/wirelesscommunications/) for [NUS Rover Team!](https://github.com/orgs/NUS-Rover-Team)
 - 🌱 I’m currently learning about Real Time Operating Systems and Robot Operating System!
 - 👯 I’m looking to collaborate on robotics-oriented projects.
-- 💬 Ask me about anything [here.](https://github.com/sevenseasofbri/sevenseasofbri/issues)
+- 💬 Ask me about anything [here.](https://github.com/sevenseasofbri/sevenseasofbri/discussions)
 - 😄 Pronouns: she/her
 
 **Languages and Tools:**
