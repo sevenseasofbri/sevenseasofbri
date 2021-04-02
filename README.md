@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://moveit.ros.org/assets/images/logo/ROS_logo.png"></code>
 <code><img height="20" src="https://icon-library.com/images/arduino-icon/arduino-icon-7.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="20" src="https://www.arm.com/-/media/global/logos/Arm-logo-reverse-white.svg?h=175&w=300&hash=F5A828FC9C66575A911DF0B5CB3D04B4E8E5DC50&hash=F5A828FC9C66575A911DF0B5CB3D04B4E8E5DC50&la=en&revision=eaec4c52-5554-44d8-8724-efb836789ee2"></code>
+<code><img height="20" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"></code>
+<code><img height="20" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001-300x267.png"></code>
+
 
 **Github Stats:**
 
