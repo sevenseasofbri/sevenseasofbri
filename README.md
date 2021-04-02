@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a [wireless communications system](https://nus-rover-team.github.io/wirelesscommunications/) for [NUS Rover Team!](https://github.com/orgs/NUS-Rover-Team)
-- 🌱 I’m currently learning about Real Time Operating Systems and Robot Operating System!
-- 👯 I’m looking to collaborate on robotics-oriented projects.
+- 🌱 I’m currently learning about Wireless Communications Protocols, Robot Operating System, RTOS, Signals and Systems, Transistor-Level Digital Circuits and Computer Organisation!
+- 👯 I’m looking to collaborate on robotics/iot/embedded projects.
 - 💬 Ask me about anything [here.](https://github.com/sevenseasofbri/sevenseasofbri/discussions)
 - 😄 Pronouns: she/her
 
