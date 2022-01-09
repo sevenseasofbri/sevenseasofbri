@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-Hi, I'm Vishruti, a Computer Engineering undergraduate at the National University of Singapore. I am also an IoT Engineer intern at a startup, [Resync Technologies](https://resynctech.com/).✨
+Hi, I'm Vishruti, a Computer Engineering undergraduate at the National University of Singapore.✨
 <!--
 **sevenseasofbri/sevenseasofbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
