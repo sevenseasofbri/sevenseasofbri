@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"></code>
 <code><img height="20" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001-300x267.png"></code>
 
-
+<!--
 **Github Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenseasofbri&theme=blueberry" />
 </a>
-
+-->
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevenseasofbri&repo=CG2271-Mini-Project&theme=blueberry" />
