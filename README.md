@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-Hi, I'm Vishruti, a Computer Engineering undergraduate at the National University of Singapore.✨
+Hi, I'm Vishruti, a TA at the National University of Singapore.✨
 
 Find my LinkedIn [here](https://www.linkedin.com/in/vishruti-ranjan-734997192/)
 
