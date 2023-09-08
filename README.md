@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on robotics/iot/embedded projects.
 - 💬 Ask me about anything [here.](https://github.com/sevenseasofbri/sevenseasofbri/discussions)
 - 😄 Pronouns: she/her
-
+<!--
 **Languages and Tools:**
 
 <code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://www.arm.com/-/media/global/logos/Arm-logo-reverse-white.svg?h=175&w=300&hash=F5A828FC9C66575A911DF0B5CB3D04B4E8E5DC50&hash=F5A828FC9C66575A911DF0B5CB3D04B4E8E5DC50&la=en&revision=eaec4c52-5554-44d8-8724-efb836789ee2"></code>
 <code><img height="20" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"></code>
 <code><img height="20" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001-300x267.png"></code>
+-->
 
-<!--
 **Github Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenseasofbri&theme=blueberry" />
 </a>
--->
-<!--
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevenseasofbri&repo=CG2271-Mini-Project&theme=blueberry" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevenseasofbri&repo=tp&theme=blueberry" />
 </a> 
--->
+
