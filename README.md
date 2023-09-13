@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I'm currently working on [Dust](https://github.com/cs-dust) - an explicit control evaluator with low level memory for a subset of the programming language Rust.
 - 👯 I’m looking to collaborate on robotics/iot/embedded projects.
 - 💬 Ask me about anything [here.](https://github.com/sevenseasofbri/sevenseasofbri/discussions)
 - 😄 Pronouns: she/her
