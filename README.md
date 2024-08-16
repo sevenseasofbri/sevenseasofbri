@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-Hi, I'm Vishruti, a TA at the National University of Singapore.✨
+Hi, I'm Vishruti, PhD Student and GA at the National University of Singapore.✨
 
 Find my LinkedIn [here](https://www.linkedin.com/in/vishruti-ranjan-734997192/)
 
