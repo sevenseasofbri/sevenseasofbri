@@ -4,6 +4,8 @@ Hi, I'm Vishruti, PhD Student and GA at the National University of Singapore.✨
 
 Find my LinkedIn [here](https://www.linkedin.com/in/vishruti-ranjan-734997192/)
 
+My website is here --> [https://vishrutiranjan.com/](https://vishrutiranjan.com/)
+
 <!--
 **sevenseasofbri/sevenseasofbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
