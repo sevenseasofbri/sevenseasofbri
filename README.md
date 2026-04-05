@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 **Github Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sevenseasofbri&show_icons=true&include_all_commits=true&theme=blueberry" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sevenseasofbri&show_icons=true&include_all_commits=true&theme=blueberry" alt="Vishruti's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenseasofbri&theme=blueberry" />
